@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "firstName": "Krishani",
+      "lastName": "Bhavsar",
+      "email": "krishani29bhavsar@gmail.com",
+      "dob": "2021-02-03",
+      "bio": "trying it",
+      "id": 6
+    },
+    {
+      "firstName": "Ajit",
+      "lastName": "Bhavsar",
+      "email": "ab@gmail.com",
+      "dob": "1980-02-13",
+      "bio": "Dealer of Parksons product in north gujarat region",
+      "id": 11
+    }
+  ]
+}
